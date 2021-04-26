@@ -1,6 +1,5 @@
 
 # Hi there 👋🏼
-## Welcome to my github Profile
 
 I'm Shashank Mishra a Front-end Engineer, currently onto last year of my BCA degree.
 Always ready for creative and innovative project ideas, Love to code with team.
