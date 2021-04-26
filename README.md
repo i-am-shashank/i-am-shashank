@@ -8,7 +8,10 @@ Always ready for creative and innovative project ideas, Love to code with team.
 
 ![](https://res.cloudinary.com/doeyjlh9k/image/upload/v1609753549/web_dwfk2k.gif)
 
-### 🔭 Currently working on Prithvi.ai as an front-end intern.
+### 🔭 Internships :
+- Prithvi.ai(2 months)
+- Hope Foundation(2 months)
+- Artificial Brix(3 months)
 
 ### 🌱 Technologies I use
 
