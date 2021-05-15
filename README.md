@@ -19,7 +19,7 @@ Always ready for creative and innovative project ideas, Love to code with team.
 - NextJs
 - Gatsby
 
-#### 👤 My portfolio [here!](https://shashank-mishra.now.sh)
+#### 👤 My portfolio [here!](https://shashank.vercel.app/)
 #### 💬 Reach me here: 
 - geekyholic2275@gmail.com
 - join my whatsapp coding group [here!](https://chat.whatsapp.com/BzKAvQuLx6RCWRSaDzTO5r)
