@@ -1,7 +1,7 @@
 
 # Hi there 👋🏼
 
-I'm Shashank Mishra a Front-end Engineer, currently onto last year of my BCA degree.
+I'm Shashank Mishra a Full-stack web designer, currently onto last year of my BCA degree.
 Always ready for creative and innovative project ideas, Love to code with team.
 
 
