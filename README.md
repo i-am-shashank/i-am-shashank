@@ -1,7 +1,7 @@
 
 # Hi there 👋🏼
 
-I'm Shashank Mishra a Full-stack web designer, currently onto last year of my BCA degree.
+I'm Shashank Mishra a Full-stack web designer in [Quolam Buisness Solutions](https://www.quolam.com/).
 Always ready for creative and innovative project ideas, Love to code with team.
 
 
@@ -12,14 +12,17 @@ Always ready for creative and innovative project ideas, Love to code with team.
 - Hope Foundation(2 months)
 - Artificial Brix(3 months)
 
+### 👨‍💻 Experience :
+- Quolam Buisness Solutions(July 2021 - present)
+
 ### 🌱 Technologies I use
 
 - Javascript
 - ReactJs
+- NodeJs
 - NextJs
 - Gatsby
 
 #### 👤 My portfolio [here!](https://shashank.vercel.app/)
 #### 💬 Reach me here: 
-- geekyholic2275@gmail.com
-- join my whatsapp coding group [here!](https://chat.whatsapp.com/BzKAvQuLx6RCWRSaDzTO5r)
+- shashankmishra2275@gmail.com
