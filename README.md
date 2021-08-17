@@ -1,7 +1,8 @@
 
 # Hi there 👋🏼
 
-I'm Shashank Mishra a Full-stack web designer in [Quolam Buisness Solutions](https://www.quolam.com/).
+I'm Shashank Mishra a Full-stack engineer in [Quolam Buisness Solutions](https://www.quolam.com/),
+creating sclabale Web/Android based solutions.   
 Always ready for creative and innovative project ideas, Love to code with team.
 
 
@@ -19,6 +20,7 @@ Always ready for creative and innovative project ideas, Love to code with team.
 
 - Javascript
 - ReactJs
+- React Native
 - NodeJs
 - NextJs
 - Gatsby
