@@ -1,8 +1,8 @@
 
 # Hi there 👋🏼
 
-I'm Shashank Mishra a Full-stack engineer in [Quolam Buisness Solutions](https://www.quolam.com/),
-creating sclabale Web/Android based solutions.   
+I'm Shashank Mishra a Software Developer in [Isimplexity](https://www.isimplexity.com/),
+creating sclabale enterprise solutions.   
 Always ready for creative and innovative project ideas, Love to code with team.
 
 
@@ -14,7 +14,8 @@ Always ready for creative and innovative project ideas, Love to code with team.
 - Artificial Brix(3 months)
 
 ### 👨‍💻 Experience :
-- Quolam Buisness Solutions(July 2021 - present)
+- Isimplexity (Jan 2022 - present)
+- Quolam Buisness Solutions(July 2021 - October 2021)
 
 ### 🌱 Technologies I use
 
@@ -25,6 +26,6 @@ Always ready for creative and innovative project ideas, Love to code with team.
 - NextJs
 - Gatsby
 
-#### 👤 My portfolio [here!](https://shashank.vercel.app/)
+#### 👤 My [portfolio!](https://shashank.vercel.app/)
 #### 💬 Reach me here: 
 - shashankmishra2275@gmail.com
